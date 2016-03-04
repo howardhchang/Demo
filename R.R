@@ -1,3 +1,3 @@
 
-Y = rnorm (1000)
+Y = rlnorm (1000)
 hist (Y)
